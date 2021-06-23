@@ -5,3 +5,5 @@ cp .zshrc ~
 cp -r .oh-my-zsh ~
 
 chsh -s /bin/zsh
+
+source ~/.zshrc
