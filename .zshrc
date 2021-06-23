@@ -8,7 +8,7 @@ plugins=(
     safe-paste 
     colored-man-pages 
     cp 
-    virtualenvwrapper
+    # virtualenvwrapper
 )
 CASE_SENSITIVE=true
 
