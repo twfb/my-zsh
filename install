@@ -1,7 +1,7 @@
 mv ~/.zshrc ~/.zshrc.old
 mv ~/.oh-my-zsh ~/.oh-my-zsh.old
 
-cp .zshrc ~ -r
-cp .oh-my-zsh ~ -r
+cp .zshrc ~
+cp -r .oh-my-zsh ~
 
 chsh -s /bin/zsh
